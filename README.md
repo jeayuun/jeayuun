@@ -1,4 +1,6 @@
-<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=40&pause=1000&color=E360F7&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)</p>
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=40&pause=1000&color=E360F7&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
+</p>
 <br>🐇 I’m currently working as a freelancer.
 <br>🔮 I’m always eager to expand my knowledge.
 <br>🌐 I’m open to collaborations on interesting projects related to programming, web development, graphics, etc.
