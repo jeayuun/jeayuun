@@ -17,7 +17,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=30&pause=1000&color=E360F7&width=435&lines=GitHub+Stats)](https://git.io/typing-svg) <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jeayuun&theme=rose_pine&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=25&pause=1000&color=E360F7&width=435&lines=Random+Dev+Quote)](https://git.io/typing-svg) <br>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 
