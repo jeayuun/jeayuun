@@ -34,7 +34,7 @@ Happy coding! 🚀
 
 <br>[![](https://visitcount.itsvg.in/api?id=jeayuun&icon=0&color=6)](https://visitcount.itsvg.in)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=25&pause=1000&color=E360F7&width=435&lines=You+can+help+me+by+donating+%3C3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=25&pause=1000&color=E360F7&width=435&lines=You+can+help+me+by+donating+%3C3)](https://git.io/typing-svg)<br>
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jedidiahvillegas) 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jeayuun) 
 
