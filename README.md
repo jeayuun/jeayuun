@@ -25,6 +25,17 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jeayuun&icon=0&color=6)](https://visitcount.itsvg.in)
 
+
+Let's Collaborate:
+
+I'm enthusiastic about collaborating on innovative projects. If you have ideas or projects related to programming, web development, or cloud computing, let's discuss and explore possibilities.
+
+Thank You for Visiting:
+
+Feel free to delve into my projects, and if you have any questions or suggestions, I'm just a message away.
+
+Happy coding! 🚀
+
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jedidiahvillegas) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jeayuun) 
 
