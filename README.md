@@ -5,7 +5,7 @@
 <br>🔭 Connect with me on my socials (Facebook, Instagram) or Email.
 <br>🫧 Fun fact, I'm also a freelance digital artist! 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&pause=1000&color=E360F7&width=435&lines=My+Socials)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=30&pause=1000&color=E360F7&width=435&lines=My+Socials)](https://git.io/typing-svg) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jedidiahvillegas) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jeayuun) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jeahvill) 
