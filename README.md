@@ -4,6 +4,7 @@
 <br>🌐 I’m open to collaborations on interesting projects related to programming, web development, graphics, etc.
 <br>🔭 Connect with me on my socials (Facebook, Instagram) or Email.
 <br>🫧 Fun fact, I'm also a freelance digital artist! 
+[![](https://visitcount.itsvg.in/api?id=jeayuun&icon=0&color=6)](https://visitcount.itsvg.in)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=25&pause=1000&color=E360F7&width=435&lines=My+Socials)](https://git.io/typing-svg) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jedidiahvillegas) 
@@ -22,8 +23,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=jeayuun&icon=0&color=6)](https://visitcount.itsvg.in)
 
 
 Let's Collaborate:
