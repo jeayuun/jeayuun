@@ -22,9 +22,8 @@
 
 
 
-Let's Collaborate:
-
-I'm enthusiastic about collaborating on innovative projects. If you have ideas or projects related to programming, web development, or cloud computing, let's discuss and explore possibilities.
+## 🫧💗✨ Let's Collaborate:
+I'm enthusiastic about collaborating on innovative projects. If you have ideas or projects related to programming, web development, or digital art, let's discuss and explore possibilities.
 
 Thank You for Visiting:
 
