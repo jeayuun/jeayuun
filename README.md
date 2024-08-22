@@ -1,12 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=40&pause=1000&color=E360F7&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
 <br>🐇 I’m currently working as a freelancer.
 <br>🔮 I’m always eager to expand my knowledge.
-<br>👯 I’m open to collaborations on interesting projects related to programming, web development, graphics, etc.
+<br>🌐 I’m open to collaborations on interesting projects related to programming, web development, graphics, etc.
 <br>🔭 Connect with me on my socials (Facebook, Instagram) or Email.
 <br>🫧 Fun fact, I'm also a freelance digital artist! 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&pause=1000&color=E360F7&width=435&lines=My+Socials+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&pause=1000&color=E360F7&width=435&lines=My+Socials)](https://git.io/typing-svg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jedidiahvillegas) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jeayuun) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jeahvill) 
