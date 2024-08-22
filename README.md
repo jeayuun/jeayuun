@@ -25,7 +25,7 @@
 ## 🫧💗✨ Let's Collaborate:
 I'm enthusiastic about collaborating on innovative projects. If you have ideas or projects related to programming, web development, or digital art, let's discuss and explore possibilities.
 
-Thank You for Visiting:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=25&pause=1000&color=E360F7&width=435&lines=Thank+you+for+visiting+~)](https://git.io/typing-svg)
 
 Feel free to delve into my projects, and if you have any questions or suggestions, I'm just a message away.
 
