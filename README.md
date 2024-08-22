@@ -3,7 +3,7 @@
 <br>🔮 I’m always eager to expand my knowledge.
 <br>🌐 I’m open to collaborations on interesting projects related to programming, web development, graphics, etc.
 <br>🔭 Connect with me on my socials (Facebook, Instagram) or Email.
-<br>🫧 Fun fact, I'm also a freelance digital artist! 
+<br>🫧 Fun fact, I was also a freelance Digital Artist! 
 
 ## My Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jedidiahvillegas) 
