@@ -34,7 +34,7 @@ Happy coding! 🚀
 
 <br>[![](https://visitcount.itsvg.in/api?id=jeayuun&icon=0&color=6)](https://visitcount.itsvg.in)
 
-## You can help me by donating 𓍢ִ໋🌷͙֒
+## You can help me by donating🌷͙֒
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jedidiahvillegas) 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jeayuun) 
 
