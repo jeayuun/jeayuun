@@ -16,13 +16,12 @@
 
 ## GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jeayuun&theme=rose_pine&hide_border=false)<br/>
-![snake animation](https://github.com/jeayuun/jeayuun/blob/output/dist/github-contribution-grid-snake.svg)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeayuun&theme=rose_pine&hide_border=false&layout=compact)
 
 ## Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-![](https://github-profile-trophy.vercel.app/?username=jeayuun&theme=rose_pine&column=7)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)<br/>
+![](https://github-profile-trophy.vercel.app/?username=jeayuun&theme=rose_pine&column=7)<br/>
 
 
 ## 🫧💗✨ Let's Collaborate!
