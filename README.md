@@ -40,4 +40,4 @@ Happy coding! 🚀
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jedidiahvillegas) 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jeayuun) 
 
-![My GitHub garden](https://gardener.attomos.ai/api/garden?username=jeayuun)
+![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jeayuun&theme=rose_pine&hide_border=true)
