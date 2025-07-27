@@ -16,7 +16,7 @@
 
 ## GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jeayuun&theme=rose_pine&hide_border=false)<br/>
-![snake animation](https://github.com/jeayuun/jeayuun/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/jeayuun/jeayuun/blob/output/dist/github-contribution-grid-snake.svg)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeayuun&theme=rose_pine&hide_border=false&layout=compact)
 
