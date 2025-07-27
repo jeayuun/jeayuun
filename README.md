@@ -23,7 +23,6 @@
 
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)<br/>
-![](https://github-profile-trophy.vercel.app/?username=jeayuun&theme=rose_pine&column=7)<br/>
 
 
 ## 🫧💗✨ Let's Collaborate!
@@ -36,6 +35,7 @@ I'm enthusiastic about collaborating on innovative projects. If you have ideas o
 Happy coding! 🚀
 
 
+![](https://github-profile-trophy.vercel.app/?username=jeayuun&theme=rose_pine&column=7)<br/>
 <br>[![](https://visitcount.itsvg.in/api?id=jeayuun&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ## You can help me by donating🌷͙֒
