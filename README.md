@@ -22,6 +22,7 @@
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=jeayuun&theme=rose_pine&column=7)<br/>
+![My GitHub garden](https://gardener.attomos.ai/api/garden?username=jeayuun)
 
 
 ## 🫧💗✨ Let's Collaborate!
