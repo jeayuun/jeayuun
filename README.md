@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=40&pause=1000&color=E360F7&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
-<br>🐇 I’m currently a 4th Year student at Polytechnic University of the Philippines, doing freelance programming on the side.
-<br>🔮 I’m always eager to expand my knowledge.
-<br>🌐 I’m open to collaborations on interesting projects related to programming, web development, graphics, etc.
-<br>🔭 Connect with me on my socials (Facebook, Instagram) or Email.
-<br>🫧 Fun fact, I was also a freelance Digital Artist! 
+<br>Creative and user-focused computer science professional with experience in visual design, UI/UX, software development, and web application development. Combines technical problem-solving with thoughtful design to create clear, engaging, and accessible digital experiences. Experienced in designing learner-centered educational materials and developing interactive applications, with a strong interest in using technology and design to address real user needs and create meaningful impact.
 
 ## My Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jedidiahvillegas) 
